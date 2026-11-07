@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#0a0a0a"/>
+  <text x="32" y="24" font-family="Arial Black,sans-serif" font-size="11" font-weight="900"
+        fill="#f5c518" text-anchor="middle" letter-spacing="1">GYM</text>
+  <text x="32" y="40" font-family="Arial Black,sans-serif" font-size="11" font-weight="900"
+        fill="#ffffff" text-anchor="middle" letter-spacing="1">PRO</text>
+  <polygon points="32,44 28,56 32,52 36,56" fill="#f5c518"/>
+</svg>
